@@ -8,6 +8,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "Components/InputComponent.h"
 #include "DrawDebugHelpers.h"
+#include "Projectile.h"
 
 APlayerTank::APlayerTank()
 {
@@ -42,7 +43,6 @@ void APlayerTank::Tick(float DeltaTime)
 	{
 		FHitResult HitResult;
 		PlayerControllerRef->GetHitResultUnderCursor(ECollisionChannel::ECC_Visibility, false, HitResult);
-		DrawDebugSphere(GetWorld(), HitResult.ImpactPoint, 25.f, 12, FColor::Red, false, -1.f);
 		RotateTurret(HitResult.ImpactPoint);
 	}
 }
@@ -64,6 +64,9 @@ void APlayerTank::Turn(float Value)
 void APlayerTank::Fire()
 {
 	FVector ProjectileSpawnLocation = ProjectileSpawnPoint->GetComponentLocation();
+	FRotator Rotation = ProjectileSpawnPoint->GetComponentRotation();
+
+	GetWorld()->SpawnActor<AProjectile>(ProjectileClass, ProjectileSpawnLocation, Rotation);
 }
 
 

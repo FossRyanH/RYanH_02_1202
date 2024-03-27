@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Assi02_RyanH_1202.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assi02_RyanH_1202.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Assi02_RyanH_1202Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Assi02_RyanH_1202.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Assi02_RyanH_1202">
+      <UniqueIdentifier>{44DAB675-1D42-3E2C-A5A2-D464E97163BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assi02_RyanH_1202\Assi02_RyanH_1202.Build.cs">
+      <Filter>Source\Assi02_RyanH_1202</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Assi02_RyanH_1202\Assi02_RyanH_1202.cpp">
+      <Filter>Source\Assi02_RyanH_1202</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assi02_RyanH_1202\Assi02_RyanH_1202.h">
+      <Filter>Source\Assi02_RyanH_1202</Filter>
+    </ClInclude>
+    <Filter Include="Source\Assi02_RyanH_1202\Private">
+      <UniqueIdentifier>{E7BBEFFD-9559-3213-ACA0-10CB6218B006}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Assi02_RyanH_1202\Private\BaseCharacter.cpp">
+      <Filter>Source\Assi02_RyanH_1202\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assi02_RyanH_1202\Private\BasePawn.cpp">
+      <Filter>Source\Assi02_RyanH_1202\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assi02_RyanH_1202\Private\BasePawn.h">
+      <Filter>Source\Assi02_RyanH_1202\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Assi02_RyanH_1202\Private\PlayerTank.cpp">
+      <Filter>Source\Assi02_RyanH_1202\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assi02_RyanH_1202\Private\Projectile.cpp">
+      <Filter>Source\Assi02_RyanH_1202\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Assi02_RyanH_1202\Public">
+      <UniqueIdentifier>{457E3682-A1E9-3FE9-B4A6-625272332D41}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Assi02_RyanH_1202\Public\BaseCharacter.h">
+      <Filter>Source\Assi02_RyanH_1202\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Assi02_RyanH_1202\Public\PlayerTank.h">
+      <Filter>Source\Assi02_RyanH_1202\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Assi02_RyanH_1202\Public\Projectile.h">
+      <Filter>Source\Assi02_RyanH_1202\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

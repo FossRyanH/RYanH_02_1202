@@ -7,7 +7,11 @@
         "Includes": [
             "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assi02_ryanh_1202\\definitions.assi02_ryanh_1202.h",
             "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\source\\assi02_ryanh_1202\\public\\projectile.h",
-            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\unrealeditor\\inc\\assi02_ryanh_1202\\uht\\projectile.generated.h"
+            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\unrealeditor\\inc\\assi02_ryanh_1202\\uht\\projectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -15,6 +15,9 @@ public:
 	// Sets default values for this pawn's properties
 	ABaseCharacter();
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "Bullets")
+	TSubclassOf<class AProjectile> ProjectileClass;
+	
 protected:
 	void RotateTurret(FVector LookAtTarget);
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Movement Variables")
@@ -22,6 +25,7 @@ protected:
 	
 	UPROPERTY(EditDefaultsOnly, Category = "Components")
 	USceneComponent* ProjectileSpawnPoint;
+
 
 private:
 	UPROPERTY(EditAnywhere, Category = "Components")

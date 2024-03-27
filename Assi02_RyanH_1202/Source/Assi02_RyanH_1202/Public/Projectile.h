@@ -18,13 +18,18 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	UPROPERTY(VisibleAnywhere, Category="Bullet Movement")
+	class UProjectileMovementComponent* ProjectileMovement;
+
+	UFUNCTION()
+	void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
 	
-private:
 	UPROPERTY(EditDefaultsOnly, Category="Components")
-	class UStaticMeshComponent* ProjectileMesh;
+	UStaticMeshComponent* ProjectileMesh;
+private:
 
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
 };
