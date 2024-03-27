@@ -16,8 +16,12 @@ public:
 	ABaseCharacter();
 
 protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
+	void RotateTurret(FVector LookAtTarget);
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Movement Variables")
+	float TurretRotationSpeed;
+	
+	UPROPERTY(EditDefaultsOnly, Category = "Components")
+	USceneComponent* ProjectileSpawnPoint;
 
 private:
 	UPROPERTY(EditAnywhere, Category = "Components")
@@ -26,14 +30,4 @@ private:
 	UStaticMeshComponent* BaseMesh;
 	UPROPERTY(EditDefaultsOnly, Category = "Components")
 	UStaticMeshComponent* TurretMesh;
-	UPROPERTY(EditDefaultsOnly, Category = "Components")
-	USceneComponent* ProjectileSpawnPoint;
-
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-
 };

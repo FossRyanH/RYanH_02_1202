@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assi02_RyanH_1202ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798999c1880d51d3f1291a1f0ca619892f2a1d9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27793228e3807afc5c24c7f06bf1a39aca3afb15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assi02_RyanH_1202ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assi02_RyanH_1202ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
