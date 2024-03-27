@@ -1,0 +1,58 @@
+[
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Assi02_RyanH_1202.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Assi02_RyanH_1202.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Assi02_RyanH_1202.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Private\\BaseCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Private\\BasePawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Private\\BasePawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\Source\\Assi02_RyanH_1202\\Public\\BaseCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Repos\\Unreal Projects\\RYanH_02_1202\\Assi02_RyanH_1202\\.vscode\\compileCommands_Default\\Assi02_RyanH_1202.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

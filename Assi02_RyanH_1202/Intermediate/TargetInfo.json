@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Assi02_RyanH_1202",
+			"Path": "..\\Source\\Assi02_RyanH_1202.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Assi02_RyanH_1202Editor",
+			"Path": "..\\Source\\Assi02_RyanH_1202Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\source\\assi02_ryanh_1202\\private\\playertank.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\x64\\assi02_ryanh_1202editor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assi02_ryanh_1202\\definitions.assi02_ryanh_1202.h",
+            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\source\\assi02_ryanh_1202\\public\\playertank.h",
+            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\source\\assi02_ryanh_1202\\public\\basecharacter.h",
+            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\unrealeditor\\inc\\assi02_ryanh_1202\\uht\\basecharacter.generated.h",
+            "g:\\repos\\unreal projects\\ryanh_02_1202\\assi02_ryanh_1202\\intermediate\\build\\win64\\unrealeditor\\inc\\assi02_ryanh_1202\\uht\\playertank.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
