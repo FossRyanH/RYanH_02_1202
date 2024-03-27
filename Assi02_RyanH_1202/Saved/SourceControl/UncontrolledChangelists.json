@@ -10,12 +10,14 @@
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/BP_Player.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/Pawns/BP_PlayerTank.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/Pawns/BP_Turret.uasset",
-				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/BP_ProjectileBase.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Assets/Materials/M_Emissive_Puprple_Inst.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Assets/Materials/M_Emissive_Yellow_Inst.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Assets/Materials/M_Emissive_White_Inst.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Maps/Main_BuiltData.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/Actors/BP_ProjectileBase.uasset",
+				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/GameMode/BP_ColorSwitchGame.uasset",
+				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/GameMode/BP_ColorSwitchGame.uasset",
+				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/BP_ProjectileBase.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/Pawns/BP_Player.uasset",
 				"G:/Repos/Unreal Projects/RYanH_02_1202/Assi02_RyanH_1202/Content/Blueprints/Pawns/BP_PawnTurret.uasset"
 			]
