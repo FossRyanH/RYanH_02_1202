@@ -15,7 +15,7 @@ public:
 	// Sets default values for this pawn's properties
 	ABaseCharacter();
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "Bullets")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Blueprintable, Category= "Bullets")
 	TSubclassOf<class AProjectile> ProjectileClass;
 	
 protected:
